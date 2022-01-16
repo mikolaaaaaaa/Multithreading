@@ -1,0 +1,25 @@
+{
+  "vans": [
+    {
+      "id": 1,
+      "containers" : 0,
+      "state": "NEW",
+      "perishable": true,
+      "operation" : "DOWNLOAD"
+    },
+    {
+      "id": 2,
+      "containers" : 10,
+      "state": "NEW",
+      "perishable": false,
+      "operation" : "UNLOAD"
+    },
+    {
+      "id": 3,
+      "containers" : 0,
+      "state": "NEW",
+      "perishable": false,
+      "operation" : "DOWNLOAD"
+    }
+  ]
+}
